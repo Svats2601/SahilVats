@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior Data Analyst at NielsenIQ**, New Delhi — helping business teams replace gut-feel decisions with data-backed ones. My focus is on **automation, dashboard design, and making insights accessible** to non-technical stakeholders.
+I'm a **Senior Data Analyst at NielsenIQ**, Gurugram — helping business teams replace gut-feel decisions with data-backed ones. My focus is on **automation, dashboard design, and making insights accessible** to non-technical stakeholders.
 
 - 🏢 **4+ years** in data analytics, currently at NielsenIQ
 - 📊 Regularly work with datasets of **1M+ rows**
