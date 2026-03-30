@@ -8,9 +8,11 @@
   <a href="https://www.linkedin.com/in/sahilvats-data-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-sahilvats--data--analyst-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:svats2601@gmail.com">
     <img src="https://img.shields.io/badge/Email-svats2601%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Svats2601&label=Profile+Views&color=0047AB&style=flat"/>
 </p>
 
@@ -18,9 +20,9 @@
 
 ## 🚀 About Me
 
-- 📊 4+ years turning **200M+ row datasets** into decisions at NielsenIQ
+- 📊 **4+ years** turning **200M+ row datasets** into business decisions at NielsenIQ
 - ⚡ Cut report refresh time by **75%** through SQL & Power BI optimization
-- 🐍 Automated ETL pipelines with **Python**, reducing pre-processing by **40%**
+- 🐍 Automated ETL pipelines with **Python**, reducing pre-processing time by **40%**
 - 🌍 Delivered analytics across **10+ global regions**
 - 🎓 Pursuing **MBA in Data Analytics**
 
@@ -40,12 +42,12 @@
 ## 📂 Featured Projects
 
 ### 🔷 [Northwind Customer Sales Dashboard](https://github.com/Svats2601/Northwind-Customer-Sales-Dashboard)
-> Power BI dashboard analysing customer sales, product categories, monthly trends & payment methods.
+> Power BI dashboard analysing customer sales, product categories, monthly trends & payment methods using Northwind data.  
 > `Power BI` `SQL` `DAX` `Data Modeling`
 
 ### 🔷 [Aadhaar Enrolment Dashboard](https://github.com/Svats2601/aadhaar-enrolment-powerbi-dashboard)
-> Interactive Power BI dashboard tracking Aadhaar enrolment trends across India by state, district & age group.
-> `Power BI` `UIDAI Open Data` `Dashboard`
+> Interactive Power BI dashboard tracking Aadhaar enrolment trends across India by state, district & age group using UIDAI open data.  
+> `Power BI` `Open Data` `Dashboard`
 
 ---
 
@@ -59,6 +61,7 @@
 ---
 
 ## 🏅 Certifications
+
 - 🥇 Google Data Analytics Professional Certificate — Coursera
 - 🥇 Microsoft Power BI Data Analyst — Coursera
 
